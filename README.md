@@ -9,6 +9,9 @@
 5. Wszystkie trasy muszą być zrealizowane - nie można rezygnować z tras.
 6. Ważne jest aby zachowywać historię zmian pojazdów lokacji.
 7. Wynikiem końcowem jest pokazanie jak system radzi sobie z adaptacją do danych testowych które są dostarczane do systemu jako harmonogram tygodniowy lub miesięczny.
+8. seq w tabeli segments oznacza po prostu numer odcinka w trasie.
+9. Nie wszytskie trasy są w pętli.
+10. Trasy mogą się odbywać z dowolnego punktu i kończyć w dowolnym punkcie.
 
 ### Zachęcamy do zadawania pytań i w razie niejasności zapraszamy do dyskuzji.
 
