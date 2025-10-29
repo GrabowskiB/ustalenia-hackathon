@@ -1,5 +1,7 @@
 # ustalenia-hackathon
 
+## W razie potrzebnej pomocy można też stworzyć własny issues na githubie
+
 ## Ustalenia do wszystkich zespołów.
 
 1. Serwisy mogą być wykonywane w widełkach 1000+- km.
@@ -12,6 +14,9 @@
 8. seq w tabeli segments oznacza po prostu numer odcinka w trasie.
 9. Nie wszytskie trasy są w pętli.
 10. Trasy mogą się odbywać z dowolnego punktu i kończyć w dowolnym punkcie.
+11. Zaminany pojazdów polegają na zamianie lokalizacji pojazdu (W lokalizacji z której zaczyna się trasa musi być pojazd).
+12. Koszt zamiany pojazdu wyliczamuy z tabeli locations_relations (oprócz tego do pojazdu dodajemy distance).
+13. konflikt okien/ okno konfliktów (Do własnej interpretacji) - Alerty są przykładowe możliwe że po waszych obliczeniach będzieci emogli pokazać lepsze/ciekawsze statystyki czy informacje.
 
 ### Zachęcamy do zadawania pytań i w razie niejasności zapraszamy do dyskuzji.
 
