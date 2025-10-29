@@ -17,6 +17,8 @@
 11. Zaminany pojazdów polegają na zamianie lokalizacji pojazdu (W lokalizacji z której zaczyna się trasa musi być pojazd).
 12. Koszt zamiany pojazdu wyliczamuy z tabeli locations_relations (oprócz tego do pojazdu dodajemy distance).
 13. konflikt okien/ okno konfliktów (Do własnej interpretacji) - Alerty są przykładowe możliwe że po waszych obliczeniach będzieci emogli pokazać lepsze/ciekawsze statystyki czy informacje.
+14. current odometer w vehicles wskazuje na stan licznika w dniu 01.01.2024 o godz 00.00
+
 
 ### Zachęcamy do zadawania pytań i w razie niejasności zapraszamy do dyskuzji.
 
